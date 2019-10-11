@@ -1,0 +1,95 @@
+body {
+    background: lightblue;
+}
+
+.carte_postal {
+    background-color: white;
+    margin: 10% auto auto;
+    padding: 30px;
+    height: 450px;
+    width: 700px;
+    box-shadow: 0 0 5px #6b6b6b;
+}
+
+.photo {
+    height: 140px;
+    width: 100px;
+    border: rgba(91, 91, 91, 0.81) solid 2px;
+    float: right;
+}
+
+.text {
+    font-size: 18px;
+    text-decoration: rgba(107, 107, 107, 0.76);
+    font-family: Arial, serif;
+    width: 380px;
+    border-right: #6b6b6b solid;
+    height: 440px;
+    margin-top: -15px;
+}
+
+#text1 {
+    padding-top: 140px;
+    line-height: 25px;
+}
+
+#text2 {
+    line-height: 25px;
+}
+
+.text_vide1 {
+    float: right;
+    border-top: 2px solid #6b6b6b;
+    border-bottom: 2px solid #6b6b6b;
+    width: 300px;
+    height: 50px;
+    margin-top: 270px;
+}
+.text_vide2 {
+    border-bottom: 2px solid #6b6b6b;
+    margin-top: 330px;
+    width: 300px;
+    height: 45px;
+    margin-left: -200px;
+    display: block;
+}
+.carre {
+    height: 30px;
+    width: 20px;
+    border: 2px solid #6b6b6b;
+    float: right;
+}
+
+#carre1 {
+    margin-right: 278px;
+    margin-top: -43px;
+
+}
+
+#carre2 {
+    margin-right: 252px;
+    margin-top: -43px;
+}
+
+#carre3 {
+    margin-right: 226px;
+    margin-top: -43px;
+}
+
+#carre4 {
+    margin-right: 200px;
+    margin-top: -43px;;
+}
+
+#carre5 {
+    margin-right: 174px;
+    margin-top: -43px;;
+}
+
+#line_ville {
+    border-bottom: 2px solid #6b6b6b;
+    position: absolute;
+    width: 163px;
+    margin-left: 30px;
+    margin-top: 28px;
+}
