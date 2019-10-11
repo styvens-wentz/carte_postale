@@ -6,15 +6,16 @@ body {
     background-color: white;
     margin: 10% auto auto;
     padding: 25px;
+    padding-right: 35px;
     height: 450px;
     width: 700px;
     box-shadow: 0 0 5px #6b6b6b;
 }
 
 .photo {
-    height: 140px;
+    height: 130px;
     width: 100px;
-    border: rgba(91, 91, 91, 0.81) solid 2px;
+    border: rgba(91, 91, 91, 0.81) solid 2.5px;
     float: right;
 }
 
@@ -23,7 +24,7 @@ body {
     text-decoration: rgba(107, 107, 107, 0.76);
     font-family: Arial, serif;
     width: 380px;
-    border-right: #6b6b6b solid;
+    border-right: #6b6b6b 2px solid;
     height: 440px;
     margin-top: -15px;
 }
