@@ -67,22 +67,22 @@ body {
 }
 
 #carre2 {
-    margin-right: 252px;
+    margin-right: 251px;
     margin-top: -43px;
 }
 
 #carre3 {
-    margin-right: 226px;
+    margin-right: 224px;
     margin-top: -43px;
 }
 
 #carre4 {
-    margin-right: 200px;
+    margin-right: 197px;
     margin-top: -43px;;
 }
 
 #carre5 {
-    margin-right: 174px;
+    margin-right: 170px;
     margin-top: -43px;;
 }
 
@@ -90,6 +90,6 @@ body {
     border-bottom: 2px solid #6b6b6b;
     position: absolute;
     width: 163px;
-    margin-left: 30px;
+    margin-left: 27px;
     margin-top: 28px;
 }
